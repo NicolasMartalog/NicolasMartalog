@@ -30,7 +30,7 @@ I am passionate about **Virtual Reality Development**, **Machine Learning** and 
 
 #### What I Currently Work On 🔭:
 - Developing a social multiplayer VR app [VR Multiplayer Party](https://youtu.be/jZcdRyEPjHI) 👨‍💻
-- Working on a Collatz Conjecture Vissulization in 3D and 2D [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) 🧮
+- Working on a Collatz Conjecture Visualization in 3D and 2D [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) 🧮
  
  ---
  

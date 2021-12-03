@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://external-preview.redd.it/6BSvxrgOVhkMf1LRK4XoRm9-ApnpJpp4kolabjAhIHE.gif?format=png8&s=f75b1ed8d9325d8f133c61f33be020f7f5506dfe" width="350" height="350" />
 
-# Hi there, I am Nicolas 👋.
+# Hi there, I am Nicolas 👋
 
 I am passionate about **Virtual Reality Development**, **Machine Learning** and **Software Developement**! [Website](https://nicolasmartalog.github.io/MyWebsite/)
 

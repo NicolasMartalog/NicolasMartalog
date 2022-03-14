@@ -25,7 +25,7 @@ I am passionate about **Virtual Reality Development**, **Machine Learning** and 
 
 #### I'm a Student, Developer, and Artist!
 - Second year Comp. Mathematics student at [Univeristy of Waterloo](https://uwaterloo.ca/math/) 🎓
-- Full-Stack Developer at [Uptake](https://www.uptake.com/) ⌨️
+- Incoming Software Developer at [BMO](https://www.bmo.com/main/personal) ⌨️
 - Cyber Security enthusiast 💻
 - Frequent artist [Gallery](https://nicolasmartalog.github.io/MyWebsite/Portfolio.html) 🧑‍🎨
 

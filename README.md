@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 I am passionate about **Virtual Reality Development**, **Machine Learning** and **Software Development**! [Website](https://nicolasmartalog.github.io/MyWebsite/)
 
 #### I'm a Student, Developer, and Artist!
-- Second year Comp. Mathematics student at [Univeristy of Waterloo](https://uwaterloo.ca/math/) 🎓
-- Software Developer Analyst at [BMO](https://www.bmo.com/main/personal) ⌨️
+- Third year Comp. Mathematics student at [Univeristy of Waterloo](https://uwaterloo.ca/math/) 🎓
+- Prev Software Developer Analyst at [BMO](https://www.bmo.com/main/personal) ⌨️
 - Cyber Security enthusiast 💻
 - Frequent artist [Gallery](https://nicolasmartalog.github.io/MyWebsite/Portfolio.html) 🧑‍🎨
 

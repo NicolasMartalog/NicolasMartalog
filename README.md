@@ -25,7 +25,7 @@ I am passionate about **Virtual Reality Development**, **Machine Learning** and 
 
 #### I'm a Student, Developer, and Artist!
 - Fourth-year Comp. Mathematics student at [Univeristy of Waterloo](https://uwaterloo.ca/math/) 🎓
-- Incoming Performance Engineer Intern at [NVIDIA](https://www.nvidia.com/en-us/) ⌨️
+- Previous Performance Engineer Intern at [NVIDIA](https://www.nvidia.com/en-us/) ⌨️
 - Cyber Security enthusiast 💻
 - Frequent artist [Gallery](https://nicolasmartalog.github.io/MyWebsite/Portfolio.html) 🧑‍🎨
 

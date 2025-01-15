@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # Hi there, I am Nicolas 👋
 
-I am passionate about **Virtual Reality Development**, **Machine Learning** and **Software Development**! [Website](https://nicolasmartalog.github.io/MyWebsite/)
+I am passionate about **Virtual Reality Development**, **Machine Learning**, and **Software Development**! [Website](https://nicolasmartalog.github.io/MyWebsite/)
 
 #### I'm a Student, Developer, and Artist!
 - Fourth-year Comp. Mathematics student at [Univeristy of Waterloo](https://uwaterloo.ca/math/) 🎓
